@@ -24,7 +24,3 @@
 
 5. If you would like to do research based on this code, please cite the above paper. For any questions you can contact e-mail: Albert_An@foxmail.com. 
 
-   
-
-6. Copyright reserved by the authors
-

@@ -39,7 +39,7 @@
       journal={IEEE Transactions on Neural Networks and Learning Systems},
       volume={},
       pages={},
-      year={2022},
+      year={2023},
       publisher={IEEE}
    }
    ```

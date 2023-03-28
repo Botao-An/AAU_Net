@@ -22,7 +22,7 @@
 
    
    
-5. If you want do research based this code, please cite the following papers. For any questions you can contact e-mail: Albert_An@foxmail.com. 
+5. If you want do research based this code, please cite the following papers. For any questions you can contact e-mail: Albert_An@foxmail.com; wangshibin2008@gmail.com
    ```latex
    @article{an2022interpretable,
       title={Interpretable Neural Network via Algorithm Unrolling for Mechanical Fault Diagnosis},

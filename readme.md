@@ -38,7 +38,7 @@
       author={An, Botao and Wang, Shibin and Qin, Fuhua and Zhao, Zhibin and Yan, Ruqiang and Chen, Xuefeng},
       journal={IEEE Transactions on Neural Networks and Learning Systems},
       volume={},
-      pages={},
+      pages={1-14},
       year={2023},
       publisher={IEEE}
    }
